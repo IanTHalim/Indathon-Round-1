@@ -1,0 +1,8 @@
+Nama : Ian Tryaldi Halim
+Satker : BPS Kabupaten Jeneponto
+
+daftar library
+readr
+tidyverse
+fpp2
+
